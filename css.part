@@ -19,6 +19,7 @@ body {
  background-color: #000;
  color: #fff;
  font-family: kamerik-3d;
+ font-family: merriweather-italic-3d;
 }
 .logo {
     width: 150px;
