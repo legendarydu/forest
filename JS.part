@@ -1,1 +1,9 @@
+document.addEventListener('mousemove', e => {
+    Object.assign(documentElement, {
+        style:
+        
+        --move-x: ${e.clienteX}deg;
+        --move-y: ${e.clienteY}deg;
+    })
 
+})
